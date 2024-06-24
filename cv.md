@@ -2,11 +2,11 @@
 ## **Frontend Developer**
 **** 
 ### **Contacts**
-**Phone:** +37525616600
-**Email:** vadim-khomich@yandex.ru
-**Linkedin**: linkedin.com/in/vadim-khomich
-**Telegram**: @vadim_khomich
-**GitHub**: https://github.com/VadzimKhomich
+* **Phone:** +37525616600
+* **Email:** vadim-khomich@yandex.ru
+* **Linkedin**: linkedin.com/in/vadim-khomich
+* **Telegram**: @vadim_khomich
+* **GitHub**: https://github.com/VadzimKhomich
 **** 
 ### **About Myself**
 I graduated from Belarussian State Technological University with a degree in mechanical engineering.I have been working as a QA engineer for 2 years. I want to gain the necessary knowledge to work as a Fronted developer. I have good communication skills, I am Team player and responsible person.
