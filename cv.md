@@ -9,11 +9,11 @@
 * **Linkedin**: linkedin.com/in/vadim-khomich
 * **Telegram**: @vadim_khomich
 * **GitHub**: <https://github.com/VadzimKhomich>
----
+
 
 ### **About Myself**
 I graduated from Belarussian State Technological University with a degree in mechanical engineering.I have been working as a QA engineer for 2 years. I want to gain the necessary knowledge to work as a Fronted developer. I have good communication skills, I am Team player and responsible person.
----
+
 
 ### **Hard Skills**
 * Git 
@@ -21,7 +21,6 @@ I graduated from Belarussian State Technological University with a degree in mec
 * HTML, CSS, and JavaScript (basic knowledge)
 * DevTools
 * Jira, Jenkins, Figma
----
 
 ### **Code Example**
 ```
@@ -40,16 +39,13 @@ I graduated from Belarussian State Technological University with a degree in mec
      return newArray
  } 
 ``` 
----
 
 ### **Experience**
 QA engineer (2022 -  present)
----
 
 ### **Education**
 * Belarusian State Technological University (Engineering degree)
 * STQB Certified Tester
----
 
 ### **Languages**
 * English (B1)
