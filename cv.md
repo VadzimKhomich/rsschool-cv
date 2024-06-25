@@ -1,4 +1,5 @@
 # **Khomich Vadzim**
+![](./cv-avatar.png)
 ## **Frontend Developer**
 **** 
 ### **Contacts**
@@ -17,6 +18,7 @@ I graduated from Belarussian State Technological University with a degree in mec
 * HTML, CSS, and JavaScript (basic knowledge)
 * DevTools
 * Jira, Jenkins, Figma
+**** 
 ### **Code Example**
 ```
  function createNewArray(arr, param) {
@@ -34,3 +36,14 @@ I graduated from Belarussian State Technological University with a degree in mec
      return newArray
  } 
 ``` 
+**** 
+### **Experience**
+QA engineer (2022 -  present)
+**** 
+### **Education**
+* Belarusian State Technological University (Engineering degree)
+* STQB Certified Tester
+**** 
+### **Languages**
+* English (A2-B1)
+* Russian (Native)
