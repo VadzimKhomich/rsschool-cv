@@ -41,11 +41,11 @@ I graduated from Belarussian State Technological University with a degree in mec
 ``` 
 
 ### **Experience**
-QA engineer (2022 -  present)
+QA engineer (2022 - now)
 
 ### **Education**
 * Belarusian State Technological University (Engineering degree)
-* STQB Certified Tester
+* STQB Certified tester
 
 ### **Languages**
 * English (B1)
