@@ -45,5 +45,6 @@ QA engineer (2022 -  present)
 * STQB Certified Tester
 **** 
 ### **Languages**
-* English (A2-B1)
+* English (B1)
 * Russian (Native)
+
