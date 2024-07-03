@@ -182,3 +182,26 @@ img {
     color: rgb(74, 67, 67);
     transition: color .3s ease;
 }
+
+.footer-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 25px;
+    background-color: #dcdcdc;
+    border-radius: 10px;
+}
+
+.footer__logo {
+    width: 200px;
+}
+
+.footer__link,
+.footer__year {
+    font-size: 20px;
+}
+
+.footer__link:hover {
+    color: rgb(74, 67, 67);
+    transition: color .3s ease;
+}
