@@ -1,5 +1,6 @@
 html {
     box-sizing: border-box;
+    scroll-behavior: smooth;
 }
 
 *,
@@ -69,6 +70,7 @@ a {
     justify-content: space-between;
     background-color: #dcdcdc;
     margin-bottom: 20px;
+    border-radius: 10px;
 
 }
 
@@ -85,6 +87,7 @@ a {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    margin-bottom: 60px;
 }
 
 .header__wrapper-title {
@@ -94,6 +97,7 @@ a {
 img {
     width: 100%;
     object-fit: cover;
+    border-radius: 15px;
 }
 
 .header__title {
@@ -111,6 +115,7 @@ img {
 
 .main__wrapper {
     display: flex;
+    gap: 40px
 }
 
 .main__left {
@@ -121,12 +126,59 @@ img {
     width: 774px;
 }
 
-.contacts__title {
-    font-size: 22px;
+.title-left {
+    font-size: 24px;
+    text-align: center;
     margin-bottom: 20px;
 }
 
-.contacts__list {
-    font-size: 16px;
-    
+.list-left,
+.list-rigth {
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.contacts,
+.languages,
+.soft-skills,
+.hobbies,
+.education,
+.about-me,
+.hard-skills,
+.code-example {
+    margin-bottom: 60px;
+}
+
+.contacts,
+.languages,
+.soft-skills,
+.hobbies,
+.education,
+.about-me,
+.hard-skills,
+.code-example,
+.my-projects {
+    background-color: antiquewhite;
+    padding: 20px;
+    border-radius: 15px;
+    -webkit-box-shadow: -3px 2px 8px 3px rgba(34, 60, 80, 0.2);
+    -moz-box-shadow: -3px 2px 8px 3px rgba(34, 60, 80, 0.2);
+    box-shadow: -3px 2px 8px 3px rgba(34, 60, 80, 0.2);
+}
+
+.title-right {
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.about-me__text {
+    font-size: 20px;
+}
+
+.my-projects__item:hover {
+    color: rgb(74, 67, 67);
+    transition: color .3s ease;
 }
